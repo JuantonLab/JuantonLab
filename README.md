@@ -1,16 +1,22 @@
-### Hi there 👋
+## Featured Projects
 
-<!--
-**JuantonCodex/JuantonCodex** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Here you'll find a selection of my most notable projects.
 
-Here are some ideas to get you started:
+### Video Player
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+> [View Project](https://juantoncodex.github.io/rs-redux-zustand/) 
+
+> [Repository](https://github.com/JuantonCodex/rs-redux-zustand)
+
+
+![Video Player](./assets/rs-redux-zustand.png)  
+**Description**: A brief description of Project 1. What it does, what technologies it uses, and any other relevant information.
+
+
+#### Technologies
+- React
+- Redux
+- Tailwind
+- Vite
+
+---
