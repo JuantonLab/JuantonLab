@@ -1,22 +1,20 @@
 ## Featured Projects
 
-Here you'll find a selection of my most notable projects.
+<table>
+<tr>
+<td width="50%">
+<h3>Video Player</h3>
+<a href="https://juantoncodex.github.io/rs-redux-zustand/">View project</a>
+<a href="https://github.com/JuantonCodex/rs-redux-zustand">View repository</a>
 
-### Video Player
+![Video Player](./assets/rs-redux-zustand.png)
 
-> [View Project](https://juantoncodex.github.io/rs-redux-zustand/) 
+<h4>Description</h4>
+Video player project based on a project showcased in a course from Rocketseat platform.
 
-> [Repository](https://github.com/JuantonCodex/rs-redux-zustand)
-
-
-![Video Player](./assets/rs-redux-zustand.png)  
-**Description**: A brief description of Project 1. What it does, what technologies it uses, and any other relevant information.
-
-
-#### Technologies
-- React
-- Redux
-- Tailwind
-- Vite
-
----
+<h4>Technologies:</h4>
+React, Redux, Tailwind, Vite.
+</td>
+<td width="50%"></td>
+</tr>
+</table>
