@@ -1,11 +1,9 @@
-## Featured Projects
-
 <table>
 <tr>
 <td width="50%">
 <h3>Video Player</h3>
-<p><a href="https://juantoncodex.github.io/rs-redux-zustand/">View project</a></p>
-<p><a href="https://github.com/JuantonCodex/rs-redux-zustand">View repository</a></p>
+<p><a href="https://juantoncodex.github.io/rs-redux-zustand/" target="_blank">View project</a></p>
+<p><a href="https://github.com/JuantonCodex/rs-redux-zustand" target="_blank">View repository</a></p>
 
 ![Video Player](./assets/rs-redux-zustand.png)
 
