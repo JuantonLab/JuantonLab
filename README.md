@@ -1,9 +1,9 @@
 <table>
 <tr>
 <td width="50%">
-<h3>Video Player</h3>
-  
-![Video Player](./assets/rs-redux-zustand.png)
+<h3>React Video Player</h3>
+
+https://github.com/JuantonCodex/JuantonCodex/assets/1317580/b540bda4-04ec-424c-a088-da6842000fba
 
 <h4>Description:</h4>
 Video player project based on a project showcased in a course from Rocketseat platform.
