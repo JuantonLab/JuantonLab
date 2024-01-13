@@ -6,7 +6,7 @@
 https://github.com/JuantonCodex/JuantonCodex/assets/1317580/b540bda4-04ec-424c-a088-da6842000fba
 
 <h4>Description:</h4>
-Video player project based on a project showcased in a course from Rocketseat platform.
+Video player project based on a showcase from a Rocketseat platform
 
 <h4>Technologies:</h4>
 React, Redux, Tailwind, Vite.
