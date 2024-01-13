@@ -1,7 +1,7 @@
 <table>
 <tr>
 <td width="50%">
-<h3>React Video Player</h3>
+<h3>Video Player with React and Redux</h3>
 
 https://github.com/JuantonCodex/JuantonCodex/assets/1317580/b540bda4-04ec-424c-a088-da6842000fba
 
