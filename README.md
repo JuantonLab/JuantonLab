@@ -7,7 +7,7 @@
 <tr>
 <td width="50%">
   
-https://github.com/JuantonCodex/JuantonCodex/assets/1317580/4fc8a348-ef6a-4f25-8f38-5671ea09ac1e
+  ![preview](https://github.com/JuantonCodex/JuantonCodex/assets/1317580/99f01503-d217-4ac4-81fd-b8b46ef5f34f)
 </td>
 <td width="50%" valign="top">
   <h4>Description:</h4>
