@@ -3,7 +3,8 @@
 <td width="50%">
 <h3>Video Player with React and Redux</h3>
 
-https://github.com/JuantonCodex/JuantonCodex/assets/1317580/b540bda4-04ec-424c-a088-da6842000fba
+
+https://github.com/JuantonCodex/JuantonCodex/assets/1317580/4fc8a348-ef6a-4f25-8f38-5671ea09ac1e
 
 <h4>Description:</h4>
 Video player project based on a showcase from a Rocketseat platform
