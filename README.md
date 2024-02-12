@@ -1,7 +1,7 @@
 <table>
 <tr>
   <th colspan="2">
-    <h4>Video Player with React and Redux</h4>
+   <img src="https://juantoncodex.github.io/video-player-redux/assets/logo-w6hePKGP.png" width="200" />
   </th>
 </tr>
 <tr>
@@ -10,10 +10,10 @@
 
 </td>
 <td width="40%" valign="top">
-  <h5>Description:</h5>
-  <p>Video player project based on a showcase from a Rocketseat platform</p>
+  <h4>Video Player App:</h4>
+  <p>Frontend app project designed to fetch videos from YouTube and display them using a custom video player.</p>
   <h5>Technologies:</h5>
-  <p>React, Redux, Tailwind, Vite.</p>
+  <p>React, Redux, Tailwind, TanStack Query, Vite.</p>
   <h5>Links:</h5>
   <p><a href="https://juantoncodex.github.io/video-player-redux/" target="_blank">View project</a> - <a href="https://github.com/JuantonCodex/video-player-redux" target="_blank">View repository</a></p>
 </td>
