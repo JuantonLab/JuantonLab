@@ -1,7 +1,7 @@
 <table>
 <tr>
   <th colspan="2">
-    <h3>Video Player with React and Redux</h3>
+    <h4>Video Player with React and Redux</h4>
   </th>
 </tr>
 <tr>
