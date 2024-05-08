@@ -1,7 +1,7 @@
 <table>
 <tr>
   <th colspan="2">
-   <img src="https://juantoncodex.github.io/video-player-redux/assets/logo-w6hePKGP.png" width="200" />
+   <img src="https://juantonlab.github.io/video-player-redux/assets/logo-w6hePKGP.png" width="200" />
   </th>
 </tr>
 <tr>
