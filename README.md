@@ -1,7 +1,7 @@
 <table>
 <tr>
-<td width="60%">
-<img src="https://github.com/JuantonLab/JuantonCodex/assets/1317580/acaae009-1760-4000-968b-322bd99c5f55" />
+<td width="60%" valign="middle" align="center">
+<img src="https://github.com/JuantonLab/JuantonCodex/assets/1317580/acaae009-1760-4000-968b-322bd99c5f55" width="500" />
 
 </td>
 <td width="40%" valign="top">
@@ -13,7 +13,7 @@
 </td>
 </tr>
 <tr>
-<td width="60%" align="center" valign="center">
+<td width="60%" align="center" valign="middle">
 <img src="https://github.com/JuantonLab/JuantonLab/assets/1317580/f269aedf-506d-4ae8-92d5-52c23a1b975f"/>
 </td>
 <td width="40%" valign="top">
