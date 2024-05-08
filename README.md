@@ -15,7 +15,7 @@
 </tr>
 <tr>
 <td width="60%" align="center">
-<img src="https://github.com/JuantonLab/JuantonLab/assets/1317580/62fcb4e1-4111-4bd3-b81d-5c5e7d6e2bfc" width="320"/>
+<img src="https://github.com/JuantonLab/JuantonLab/assets/1317580/f269aedf-506d-4ae8-92d5-52c23a1b975f" width="320"/>
 </td>
 <td width="40%" valign="top">
   <h4>Searchbox App:</h4>
