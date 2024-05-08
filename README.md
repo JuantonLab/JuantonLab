@@ -5,7 +5,7 @@
 
 </td>
 <td width="40%" valign="top">
-  <h4>💻 Video Player App</h4>
+  <h3>💻 Video Player App</h3>
   <p>Frontend app project designed to fetch videos from YouTube and display them using a custom video player.</p>
   <p><strong>Technologies</strong>: React, Redux, Tailwind, TanStack Query, Vite.</p>
   <p>Links: <a href="https://juantonlab.github.io/video-player-redux/" target="_blank">View project</a> - <a href="https://github.com/JuantonLab/video-player-redux" target="_blank">View repository</a></p>
@@ -16,7 +16,7 @@
 <img src="https://github.com/JuantonLab/JuantonLab/assets/1317580/f269aedf-506d-4ae8-92d5-52c23a1b975f"/>
 </td>
 <td width="40%" valign="top">
-  <h4>🔎 Searchbox App:</h4>
+  <h3>🔎 Searchbox App:</h3>
   <p>This project demonstrates an example of a searchbox using the debounce feature.</p>
   <p>Additionally, this project can connect to a VTEX site by replacing the site and keys values.</p>
   <p><strong>Technologies</strong>: React, Tailwind, TanStack Query, Vite.</p>
