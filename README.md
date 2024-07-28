@@ -1,10 +1,10 @@
 <table>
 <tr>
-<td width="60%" valign="middle" align="center">
+<td width="40%" valign="middle" align="center">
 <img src="https://github.com/JuantonLab/JuantonCodex/assets/1317580/acaae009-1760-4000-968b-322bd99c5f55" width="500" />
 
 </td>
-<td width="40%" valign="top">
+<td width="60%" valign="top">
   <h3>💻 Video Player App</h3>
   <p>Frontend app project designed to fetch videos from YouTube and display them using a custom video player.</p>
   <p><strong>Technologies</strong>: React, Redux, Tailwind, TanStack Query, Vite.</p>
@@ -12,10 +12,10 @@
 </td>
 </tr>
 <tr>
-<td width="60%" align="center" valign="middle">
+<td width="40%" align="center" valign="middle">
 <img src="https://github.com/JuantonLab/JuantonLab/assets/1317580/f269aedf-506d-4ae8-92d5-52c23a1b975f"/>
 </td>
-<td width="40%" valign="top">
+<td width="60%" valign="top">
   <h3>🔎 Searchbox App:</h3>
   <p>This project demonstrates an example of a searchbox using the debounce feature.</p>
   <p>Additionally, this project can connect to a VTEX site by replacing the site and keys values.</p>
